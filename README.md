@@ -6,4 +6,5 @@
 - 💼 I'm open to work! I'm fast learner, team player and highly motivated, and i'm passionate about learning new things!
 
 #### Contact me 😄:
+- 📞 054-2342099
 - 📧 yosefper@gmail.com
