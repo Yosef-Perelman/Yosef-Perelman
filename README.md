@@ -1,9 +1,21 @@
-#### Hello🙋‍♂️! My name is Yosef Perelman, and i'm a Backend Software Engineer.
+### Hi, I'm Yosef 👋
 
-I recently graduated from Bar Ilan University with a B.Sc. in Computer Science👨‍🎓. Throughout my studies and through self-study, I have applied my theoretical knowledge through various hands-on projects.
+Full-Stack Developer with a B.Sc. in Computer Science from Bar Ilan University.
 
-I am committed to creating clean, tested, and documented code👨‍💻. I thrive in both team environments and independent work settings. I constantly seek to expand my skills and knowledge!
+- 💼 Previously a Software Automation & Validation Engineer at CEVA – designed OOP test
+  infrastructure in TypeScript for a VSCode extension and automated tests in Java for an Eclipse plugin.
+- 🎓 Completed the TechTroop / Elevation Full Stack (MERN) bootcamp.
+- 🤖 Into AI-assisted development: RAG, AI agents, MCP and context engineering.
+- 🔭 Looking for a Junior Full-Stack / Backend Developer role.
 
-#### Contact me 🤙:
-- 📞 054-2342099
-- 📧 yosefper@gmail.com
+#### Featured projects
+- **[The Books Circle](https://github.com/Yosef-Perelman/the-books-circle)** – social reading app with an AI interview
+  that writes your book review and an AI librarian agent (React, Express, Supabase, Gemini)
+- **[HFC-Server](https://github.com/Yosef-Perelman/HFC-Server)** – nutrition app backend with a
+  constraint-satisfaction meal planner and a recipe recommender (Python, Flask, Firebase)
+
+#### Tech
+Python · TypeScript · JavaScript · Java · SQL · React · Node.js · Express · MongoDB · Flask · Firebase · Supabase · Git · Docker
+
+#### Contact
+📧 yosefper@gmail.com · [LinkedIn](https://www.linkedin.com/in/yosef-perelman)
