@@ -2,8 +2,7 @@
 
 Full-Stack Developer with a B.Sc. in Computer Science from Bar Ilan University.
 
-- 💼 Previously a Software Automation & Validation Engineer at CEVA – designed OOP test
-  infrastructure in TypeScript for a VSCode extension and automated tests in Java for an Eclipse plugin.
+- 💼 Previously a Software Automation & Validation Engineer at CEVA.
 - 🎓 Completed the TechTroop / Elevation Full Stack (MERN) bootcamp.
 - 🤖 Into AI-assisted development: RAG, AI agents, MCP and context engineering.
 - 🔭 Looking for a Junior Full-Stack / Backend Developer role.
